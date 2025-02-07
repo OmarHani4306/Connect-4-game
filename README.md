@@ -1,4 +1,4 @@
-#Connect-4 Game
+# Connect-4 Game
 
 This project implements the popular **Connect Four** game. The game is developed in **C** language and includes multiple files to run the game smoothly.
 
